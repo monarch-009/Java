@@ -23,5 +23,6 @@ public class InstanceVar {
 	
 		// toString() called internally
 		System.out.println("Default value for Integer is " + name.I);
+		
 	}
 }

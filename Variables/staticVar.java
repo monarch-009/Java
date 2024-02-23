@@ -9,5 +9,6 @@ public class staticVar {
 
         // static variable
         System.out.println("Name is : " + staticVar.name);
+        
     }
 }

@@ -6,6 +6,7 @@ public class localVar {
         float num2 = 9.9f; // If we are declare any float value in Staring we have to put f at the last of the value 
         char ch = 'A';
         boolean bool = true;
+        
         System.out.println("Local Variable (String): " + str);
         System.out.println("Local Variable (int): " + num1);
         System.out.println("Local Variable (float): " + num2);
