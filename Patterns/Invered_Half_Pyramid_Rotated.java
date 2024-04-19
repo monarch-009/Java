@@ -22,5 +22,6 @@ public class Invered_Half_Pyramid_Rotated {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

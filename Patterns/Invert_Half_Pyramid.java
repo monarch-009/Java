@@ -18,5 +18,6 @@ public class Invert_Half_Pyramid {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

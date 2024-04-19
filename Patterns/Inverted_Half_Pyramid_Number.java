@@ -17,6 +17,7 @@ public class Inverted_Half_Pyramid_Number {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 

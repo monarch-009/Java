@@ -32,6 +32,7 @@ public class Palindromic_Pattern {
             }
             System.out.println();
         }
+        sc.close();
     }
 
 }

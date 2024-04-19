@@ -63,6 +63,7 @@ public class Butterfly_pattern {
             }
             System.out.println();
         }
+        sc.close();
     }
 
 }

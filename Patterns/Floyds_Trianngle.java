@@ -17,5 +17,6 @@ public class Floyds_Trianngle {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

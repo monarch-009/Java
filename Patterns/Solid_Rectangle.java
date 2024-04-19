@@ -23,6 +23,7 @@ public class Solid_Rectangle {
             }
             System.out.println();
         }
+        s.close();
     }
 
 }

@@ -23,6 +23,7 @@ public class Solid_Rhombus {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 

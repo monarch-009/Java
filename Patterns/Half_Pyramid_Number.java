@@ -18,6 +18,7 @@ public class Half_Pyramid_Number {
             }
             System.out.println();
         }
+        sc.close();
     }
 
 }

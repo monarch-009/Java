@@ -22,6 +22,7 @@ public class One_Zero_Triangle {
             }
             System.out.println();
         }
+        sc.close();
 
     }
 

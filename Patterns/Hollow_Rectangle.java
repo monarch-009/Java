@@ -26,6 +26,7 @@ public class Hollow_Rectangle {
             }
             System.out.println();
         }
+        s.close();
     }
 
 }
