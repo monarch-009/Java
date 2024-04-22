@@ -10,7 +10,7 @@ public class Output {
 
         // There is also a print() method, which is similar to println().
         // The only difference is that it does not insert a new line at the end of the output.
-        System.err.print("Aditya ");
+        System.out.print("Aditya ");
         System.out.print("Singh ");
         System.out.print("Rajput");
 
