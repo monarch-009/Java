@@ -1,3 +1,4 @@
+
 //Create a program to calculate product of two floating points number
 import java.util.*;
 
